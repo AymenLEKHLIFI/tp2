@@ -51,6 +51,7 @@ To get a local copy up and running follow these simple example steps.
 • Comprendre comment manipuler un signal audio avec Matlab, en effectuant
 certaines opérations classiques sur un fichier audio d’une phrase enregistrée via
 un smartphone.
+
 • Comprendre la notion des sons purs à travers la synthèse et l’analyse spectrale
 d’une gamme de musique.
 
@@ -77,6 +78,7 @@ semblé intéressant ou pas, bref tout commentaire pertinent sur le TP.
 prononçant lentement la phrase :
 
    > **« Rien ne sert de courir, il faut partir à point ».**
+   
 1- Sauvegardez ce fichier sur votre répertoire de travail, puis charger-le dans MATLAB
 à l’aide de la commande « **audioread** ».
 
