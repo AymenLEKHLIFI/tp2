@@ -25,11 +25,11 @@
        <ul>
          <li><a href="#Synthèse-d’une-gamme-de-musique">Synthèse d’une gamme de musique</a></li> 
          <li><a href="#Spectre-de-la-gamme-de-musique">Spectre de la gamme de musique</a></li>
-         <li><a href="#Approximation-du-spectre-d’un-signal-sinusoïdal-à-temps-continu-par-FFT">Approximation du spectre d’un signal sinusoïdal à temps continu par FFT</a></li>
+         <li><a href="#Approximation-du-spectre-dun-signal-sinusoïdal-à-temps-continu-par-FFT">Approximation du spectre d’un signal sinusoïdal à temps continu par FFT</a></li>
        </ul>      
   </ol>
 
-
+ 
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
@@ -247,7 +247,7 @@ des fréquences n’est pas suffisante pour relever précisément les 8 fréquen
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Approximation-du-spectre-d’un-signal-sinusoïdal-à-temps-continu-par-FFT
+## Approximation-du-spectre-dun-signal-sinusoïdal-à-temps-continu-par-FFT
 
 4- Le spectre d’un signal à temps continu peut être approché par transformée de
 Fourier discrète (TFD) ou sa version rapide (Fast Fourier Transform (FFT). Afficher le
