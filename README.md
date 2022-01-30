@@ -268,9 +268,8 @@ plot(fshift,fftshift(u));
 title('signal(doremi) spectre shifted');
 ```
 
- ![Uploading 4_II.jpg…]()
+![4_II](https://user-images.githubusercontent.com/80456274/151723067-01d718aa-6179-4d9e-8757-3d30545a8275.jpg)
 
- 
  
  
 
