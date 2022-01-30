@@ -145,8 +145,13 @@ fixée à 8192 Hz.
 
 ## Spectre-de-la-gamme-de-musique
 
-Rappel : Une aide en ligne de toutes les fonctions Matlab sont disponibles grâce à la
-commande : help nom_de_function
+2- Utilisez l’outil graphique d’analyse de signaux signalAnalyzer pour visualiser le
+spectre de votre gamme. Observez les 8 fréquences contenues dans la gamme et
+vérifiez leur valeur numérique à l’aide des curseurs.
+
+3- Tracez le spectrogramme qui permet de visualiser le contenu fréquentiel du signal
+au cours du temps (comme le fait une partition de musique) mais la précision sur l’axe
+des fréquences n’est pas suffisante pour relever précisément les 8 fréquences.
 
 
 
@@ -156,6 +161,12 @@ commande : help nom_de_function
 
 ## Approximation-du-spectre-d’un-signal-sinusoïdal-à-temps-continu-par-FFT
 
+4- Le spectre d’un signal à temps continu peut être approché par transformée de
+Fourier discrète (TFD) ou sa version rapide (Fast Fourier Transform (FFT). Afficher le
+spectre de fréquence de la gamme musicale crée en échelle linéaire, puis avec une
+échelle en décibels. 
+
+> S(dB) =20×log₁₀|S(f)|
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
