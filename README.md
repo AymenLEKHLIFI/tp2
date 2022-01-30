@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 1. [**How to install Matlab**](https://csuf.screenstepslive.com/s/12867/m/48670/l/1263150-matlab-download-installation-for-windows-students)
 2. **Clone the repo**
    ```sh
-   git clone https://github.com/IlyasKadi/Rapport_TP1-Traitement-de-signal.git
+   git clone https://github.com/IlyasKadi/Rapport_TP2-Traitement-de-signal.git
    ```
  
 <p align="right">(<a href="#top">back to top</a>)</p>
